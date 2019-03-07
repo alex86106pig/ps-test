@@ -13,6 +13,8 @@ public class GameManager : MonoBehaviour
     public struct HPstaff
     {
         public float Hp;
+        public float MaxHp123;
+        public float Hp;
         public float MaxHp;
         public void Set(float i)
         {
